@@ -1,3 +1,4 @@
 Django>=4.2,<5.0
 djangorestframework>=3.14.0  # Para APIs REST (opcional, si lo necesitas en el futuro)
 Pillow>=9.0.0               # Para manejar imágenes (usado frecuentemente con Django)
+psycopg2-binary>=2.9.0
